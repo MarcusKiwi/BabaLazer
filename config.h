@@ -1,0 +1,6 @@
+#define PCD8544_DDR		DDRC
+#define PCD8544_PORT	PORTC
+#define PCD8544_RES 	4
+#define PCD8544_DC  	2
+#define PCD8544_DAT 	1
+#define PCD8544_CLK 	0
