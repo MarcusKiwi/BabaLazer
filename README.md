@@ -1,6 +1,6 @@
 # BabaLazer
 
-AVR lazer toy for cats. Adjustable game speed and boundaries using LCD screen.
+AVR laser toy for cats. Adjustable game speed and boundaries using LCD screen.
 
 Unfortunately I don't have any schematic files for this yet.
 
